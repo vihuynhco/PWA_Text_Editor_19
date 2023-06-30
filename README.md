@@ -4,6 +4,12 @@
 
 This project involves building a text editor that runs in the browser as a Progressive Web Application (PWA). The application will be a single-page application with offline functionality and data persistence using IndexedDB
 
+Deployed App: https://limitless-mountain-69936-bd57f2c2270c.herokuapp.com/
+
+![Screenshot of app](./Assets/JATE.jpg)
+![Screenshot of downloaded app](./Assets/installedJATE.jpg)
+
+
 ## Table of Contents
 
 * [Installation](#installation)
